@@ -6,7 +6,10 @@
 
 <hibernate-configuration>
     <session-factory>
-        <mapping class="org.appfuse.model.User"/>
-        <mapping class="org.appfuse.model.Role"/>
+        <mapping class="com.dulich4phuong.model.User"/>
+        <mapping class="com.dulich4phuong.model.Role"/>
+        <mapping class="com.dulich4phuong.model.Customer"/>
+        <mapping class="com.dulich4phuong.model.CustomerCategory"/>
     </session-factory>
+    
 </hibernate-configuration>

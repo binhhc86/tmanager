@@ -7,12 +7,12 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import org.apache.commons.lang.StringUtils;
-import org.appfuse.Constants;
-import org.appfuse.model.Role;
-import org.appfuse.model.User;
-import org.appfuse.service.RoleManager;
-import org.appfuse.service.UserExistsException;
-import org.appfuse.service.UserManager;
+import com.dulich4phuong.Constants;
+import com.dulich4phuong.model.Role;
+import com.dulich4phuong.model.User;
+import com.dulich4phuong.service.RoleManager;
+import com.dulich4phuong.service.UserExistsException;
+import com.dulich4phuong.service.UserManager;
 import com.dulich4phuong.webapp.util.RequestUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.MailException;

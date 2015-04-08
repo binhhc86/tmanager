@@ -1,8 +1,8 @@
 package com.dulich4phuong.webapp.controller;
 
 import org.apache.commons.lang.RandomStringUtils;
-import org.appfuse.model.User;
-import org.appfuse.service.UserManager;
+import com.dulich4phuong.model.User;
+import com.dulich4phuong.service.UserManager;
 import org.junit.Before;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;

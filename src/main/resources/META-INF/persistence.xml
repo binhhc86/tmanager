@@ -3,8 +3,10 @@
 
     <persistence-unit name="ApplicationEntityManager" transaction-type="RESOURCE_LOCAL">
         <provider>org.hibernate.ejb.HibernatePersistence</provider>
-        <class>org.appfuse.model.User</class>
-        <class>org.appfuse.model.Role</class>
+        <class>com.dulich4phuong.model.User</class>
+        <class>com.dulich4phuong.model.Role</class>
+        <class>com.dulich4phuong.model.Customer</class>
+        <class>com.dulich4phuong.model.CustomerCategory</class>
     </persistence-unit>
 
     <!-- WARNING: This file's file original source is at web/common/src/main/resources/META-INF. The

@@ -2,9 +2,9 @@ package com.dulich4phuong.webapp.listener;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-import org.appfuse.Constants;
-import org.appfuse.service.GenericManager;
-import org.appfuse.service.LookupManager;
+import com.dulich4phuong.Constants;
+import com.dulich4phuong.service.GenericManager;
+import com.dulich4phuong.service.LookupManager;
 import org.springframework.beans.factory.NoSuchBeanDefinitionException;
 import org.springframework.context.ApplicationContext;
 import org.springframework.security.authentication.AuthenticationProvider;

@@ -1,6 +1,6 @@
 package com.dulich4phuong.webapp.controller;
 
-import org.appfuse.Constants;
+import com.dulich4phuong.Constants;
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.ModelAttribute;

@@ -1,6 +1,6 @@
 package com.dulich4phuong.webapp.controller;
 
-import org.appfuse.Constants;
+import com.dulich4phuong.Constants;
 import org.junit.Before;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;

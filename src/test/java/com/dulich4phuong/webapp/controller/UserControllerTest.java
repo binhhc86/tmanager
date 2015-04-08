@@ -1,7 +1,7 @@
 package com.dulich4phuong.webapp.controller;
 
-import org.appfuse.Constants;
-import org.appfuse.service.UserManager;
+import com.dulich4phuong.Constants;
+import com.dulich4phuong.service.UserManager;
 import org.junit.Before;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;

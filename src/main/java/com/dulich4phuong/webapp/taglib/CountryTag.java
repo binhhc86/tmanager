@@ -1,6 +1,6 @@
 package com.dulich4phuong.webapp.taglib;
 
-import org.appfuse.model.LabelValue;
+import com.dulich4phuong.model.LabelValue;
 import org.displaytag.tags.el.ExpressionEvaluator;
 
 import javax.servlet.jsp.JspException;

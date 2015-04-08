@@ -1,6 +1,6 @@
 package com.dulich4phuong.webapp.listener;
 
-import org.appfuse.Constants;
+import com.dulich4phuong.Constants;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
